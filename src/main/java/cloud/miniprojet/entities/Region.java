@@ -15,8 +15,5 @@ public class Region {
     private Long id;
     private String libelle;
 
-    // One region can have many clients
-    @OneToMany(mappedBy = "region")
-    private List<Client> clients;
 
 }
