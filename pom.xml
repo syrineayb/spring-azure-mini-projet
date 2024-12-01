@@ -79,7 +79,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>cloud.miniprojet.YourMainClass</mainClass> <!-- Replace with your actual main class -->
+                    <mainClass>cloud.miniprojet.MiniProjetApplication</mainClass> <!-- Replace with your actual main class -->
                 </configuration>
             </plugin>
 
